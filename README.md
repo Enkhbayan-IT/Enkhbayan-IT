@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Enkhbayan Altangerel
 
-<!--
-**Enkhbayan-IT/Enkhbayan-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+IT-drift student at Komvux (Jensen), Sweden.  
+Currently focusing on cloud infrastructure, networking, and system administration.
 
-Here are some ideas to get you started:
+## ☁️ Interests
+- Microsoft Azure Cloud
+- Networking & IT Infrastructure
+- System Administration
+- DevOps practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Learning
+- Azure (VM, Storage, Networking)
+- Git & GitHub
+- Basic automation & scripting
+- Cloud architecture fundamentals
+
+## 📦 Projects
+- Azure Cloud Portfolio (in progress)
+- Networking labs (Packet Tracer)
+- IT-drift practice environments
+
+## 🎯 Career Goal
+Become a Cloud / DevOps Engineer working with scalable cloud systems and infrastructure automation.
+
+## 📫 Contact
+GitHub: @Enkhbayan-IT
