@@ -1,28 +1,33 @@
-# 👋 Hi, I'm Enkhbayan Altangerel
+# Hi, I'm Enkhbayan Altangerel 👋
 
-## 💻 About Me
-IT-drift student at Komvux (Jensen), Sweden.  
-Currently focusing on cloud infrastructure, networking, and system administration.
+🎓 IT-Drift student at Komvux (Jensen), Sweden  
+☁️ Learning Azure, Networking, and System Administration  
+🚀 Future Cloud / DevOps Engineer  
 
-## ☁️ Interests
-- Microsoft Azure Cloud
-- Networking & IT Infrastructure
-- System Administration
-- DevOps practices
-
-## 🚀 Current Learning
-- Azure (VM, Storage, Networking)
+## 🛠️ Tech & Skills
+- Microsoft Azure
+- PowerShell
+- Networking Fundamentals
+- Cisco Packet Tracer
 - Git & GitHub
-- Basic automation & scripting
-- Cloud architecture fundamentals
+- Basic Infrastructure Automation
 
-## 📦 Projects
-- Azure Cloud Portfolio (in progress)
-- Networking labs (Packet Tracer)
-- IT-drift practice environments
+## 📚 Currently Learning
+- Azure (VM, Storage, Networking)
+- Infrastructure automation with PowerShell
+- Git/GitHub workflows
+- Cloud architecture fundamentals
+- Networking troubleshooting
+
+## 🚀 Featured Projects
+- [Azure Cloud Portfolio](https://github.com/Enkhbayan-IT/azure-cloud-portfolio)  
+  Hands-on Azure lab projects using PowerShell (resource groups, virtual networks, subnets, and more)
+
+- [Packet Tracer Labs](https://github.com/Enkhbayan-IT/packet-tracer-labs)  
+  Networking and troubleshooting labs covering DHCP, DNS, ping, tracert, and wireless scenarios
 
 ## 🎯 Career Goal
-Become a Cloud / DevOps Engineer working with scalable cloud systems and infrastructure automation.
+To become a Cloud / DevOps Engineer focused on scalable cloud infrastructure, automation, and reliable systems.
 
-## 📫 Contact
-GitHub: @Enkhbayan-IT
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/enkhbayan-altangerel-098b14206)
